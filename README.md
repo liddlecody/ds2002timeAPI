@@ -1,5 +1,5 @@
 How to call the API
-
+IP: 34.69.22.160
 USE command 
 "curl -H "Authorization: Bearer supersecrettoken123" \
      http://34.69.22.160:5000/api/capital-time/CITY_OF_YOUR_CHOICE"
